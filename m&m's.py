@@ -1,1 +1,0 @@
-kleuren = ['oranje', 'blauw', 'groen', 'bruin']
